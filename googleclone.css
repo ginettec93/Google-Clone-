@@ -29,8 +29,8 @@
     height: auto;
     display: flex;
     list-style: none;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-end;
+    align-items: end;
   }
   nav .nav-right-section a {
     margin-right: 10px;
