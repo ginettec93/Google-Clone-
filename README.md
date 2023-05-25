@@ -1,2 +1,2 @@
 # Google-Clone-
-Google Clone for practice CSS (Desktop Only)
+Google Clone to practice CSS (Desktop Only)
